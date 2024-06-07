@@ -6,7 +6,7 @@
 - 🔭 I'm learning Three.js to make my [personal portfolio website](https://corey-regan.ca)
 - ✒️ I'm working on a [personal blog](https://corey-regan.ca/blog) to learn in public, working through programming, DevOps, and SRE challenges, [powered by NextJS and Markdown pages](https://github.com/Invincibear/corey-regan.ca-blog)
 - 👨‍🎓 Studying for the [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) certification
-- 📖 Recently relearned front-end design, using a modern stack consisting of Turborepo + NextJS + TailwindCSS
+- 📖 Recently relearned front-end design, using a modern stack consisting of NextJS + TailwindCSS + Turborepo
 - 💰 Recently developped and handed off [paddle-python-sdk](https://github.com/PaddleHQ/paddle-python-sdk). It was incredibly validating to create a SDK that meets the strict requirements of a financial company.
 
 
